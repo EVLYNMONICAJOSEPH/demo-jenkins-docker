@@ -1,4 +1,4 @@
-print('Hello, Evlyn! This is a basic pipeline project')
+
 # This program adds two numbers
 
 num1 = int(input("enter any number"))
