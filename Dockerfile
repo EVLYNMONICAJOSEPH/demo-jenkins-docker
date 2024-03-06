@@ -1,3 +1,3 @@
 FROM python:3.6
 COPY . /home
-CMD python /home/greeting.py
+CMD python /home/basics.py
